@@ -17,6 +17,6 @@ class Student:
         
 A = Student()
 A.setName('Edyoda')
-A.setRollNumber('DS291122A')
+A.setRollNumber('DS060623')
 print (A.getName())
 print (A.getRollNumber())
